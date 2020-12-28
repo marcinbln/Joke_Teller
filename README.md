@@ -17,10 +17,7 @@ App project for Udacity Android Developer Nanodegree course <br>
 
 <br>
 <p>
- <video width="320" height="240" controls>
-  <source src="jokes.mp4" type="video/mp4">
-</video>  
-   
+<img hspace="10" src="jokes.gif" width="300px"/> 
 
 <img hspace="10" src="s1.png" width="300px"/> 
 <img hspace="10" src="s2.png" width="300px"/> 

@@ -15,3 +15,6 @@ App project for Udacity Android Developer Nanodegree course <br>
 
 
 
+<br>
+<p>
+<img hspace="10" src="jokes.mp4" width="300px"/> 

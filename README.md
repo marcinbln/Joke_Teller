@@ -10,7 +10,7 @@ App project for Udacity Android Developer Nanodegree course <br>
    + An Android Library containing an activity for displaying jokes
    + An Android app that fetches jokes from the GCE module and passes them to the Android Library for display
 * App retrieves jokes from Google Cloud Endpoints module and displays them via an Activity from the Android Library, GCE module is deployed locally.
-* Project contains paid/free flavors. The free flavour shows interstitial ad before showing a joke. The paid flavor has no ads and no unnecessary dependencies.
+* Project contains paid and free flavor. The free flavour shows interstitial ad before showing a joke. The paid flavor has no ads and no unnecessary dependencies.
 * Custom Gradle task to start the GCE dev server, run all the Android tests, and shut down the dev server.
 
 

@@ -1,6 +1,6 @@
 # Joke_Teller
 
-App project for Udacity Android Developer Nanodegree course <br>
+Android App project for Udacity Android Developer Nanodegree course <br>
 
 ## Overview
 * Joke telling app with multiple flavours and libraries
